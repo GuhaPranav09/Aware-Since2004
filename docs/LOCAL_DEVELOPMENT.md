@@ -84,7 +84,3 @@ yarn test
    ```
    yarn start:remote --project <firebase-project>
    ```
-4. Open links in iOS and Android simulators from the terminal:
-   ```
-   npx uri-scheme open "https://dev.app.cupcake.29k.org/jksd23kjh2kjhk" --ios --android
-   ```
